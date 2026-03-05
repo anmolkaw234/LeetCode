@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/anmolkaw/Desktop/Job-Prep/LeetCode",
+      "program": "/Users/anmolkaw/Desktop/Job-Prep/LeetCode/build/Debug/outDebug"
+    }
+  ]
+}
